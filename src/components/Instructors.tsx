@@ -2,7 +2,6 @@
 import React from "react";
 import { WavyBackground } from "./ui/wavy-background";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
-import { i } from "framer-motion/client";
 const instructors = [
   {
     id: 1,

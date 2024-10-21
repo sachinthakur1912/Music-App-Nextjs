@@ -2,7 +2,6 @@ import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
 import TestimonialCards from "@/components/TestimonialCards";
 import WhyChooseUs from "@/components/WhyChooseUs";
-import Image from "next/image";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import Instructors from "@/components/Instructors";
 import Footer from "@/components/Footer";
